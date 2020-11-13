@@ -31,7 +31,7 @@ You can navigate to the news details by tapping on an item.
 
 - To run the tests Product -> Test or `CMD+U`
 
-### Screenshots
+# Screenshots
 
 ![alt text](https://github.com/christijk/NYTimes/blob/main/NYTimes/Screenshots/Simulator%20Screen%20Shot%20-%20iPhone%208%20-%202020-11-13%20at%2000.44.33.png)
 
