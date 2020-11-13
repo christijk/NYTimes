@@ -33,9 +33,12 @@ You can navigate to the news details by tapping on an item.
 
 # Screenshots
 
+### News Listing Screeen
+
 ![alt text](https://github.com/christijk/NYTimes/blob/main/NYTimes/Screenshots/Simulator%20Screen%20Shot%20-%20iPhone%208%20-%202020-11-13%20at%2000.44.33.png)
 
 
+### News Details Screeen
 
 ![alt text](https://github.com/christijk/NYTimes/blob/main/NYTimes/Screenshots/Simulator%20Screen%20Shot%20-%20iPhone%208%20-%202020-11-13%20at%2000.45.51.png)
 
